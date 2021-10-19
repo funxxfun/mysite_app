@@ -93,58 +93,58 @@ article {
   width: 300px;
   height: 250px;
   background-image: url(img/sketch.jpg);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
-.box-2{
+.box-2 {
   width: 300px;
   height: 250px;
   background-image: url(img/websuku.png);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
 .box-3 {
   width: 300px;
   height: 250px;
   background-image: url(img/write.jpg);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
 .box-4 {
   width: 300px;
   height: 250px;
   background-image: url(img/webcamp.png);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
 .box-5 {
   width: 300px;
   height: 250px;
   background-image: url(img/talk.jpg);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
 .box-6 {
   width: 300px;
   height: 250px;
   background-image: url(img/webcamp-mother.png);
-  background-repeat:  no-repeat;
+  background-repeat: no-repeat;
   background-position: center;
-  background-size:cover;
+  background-size: cover;
   margin: 5px;
 }
 
-.feature{
+.feature {
   /* width: 980px; */
   padding: 90px 0;
   display: flex;
@@ -152,8 +152,7 @@ article {
   flex-wrap: wrap;
 }
 
-
-.text-box{
+.text-box {
   width: 320px;
   height: auto;
   margin: 5px;
@@ -161,21 +160,17 @@ article {
   color: #000000;
 }
 
-.strength{
+.strength {
   font-size: 20px;
   padding: 10px 0;
   text-align: center;
 }
 
-.text-area{
+.text-area {
   font-size: 16px;
 }
 
-
-
-
-
-.profile{
+.profile {
   /* width: 1024px; */
   padding: 90px 0;
   display: flex;
@@ -183,14 +178,41 @@ article {
   flex-wrap: wrap;
 }
 
-
-
-.contact{
+.contact {
   /* width: 800px; */
   padding: 90px 0;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+
+
+
+
+
+.mail{
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+.tel{
+  font-size: 20px;
+  padding-bottom: 5px;
+}
+
+
+.sns{
+  font-size: 20px;
+  padding-bottom: 5px;
+} 
+
+
+
+
+.fa {
+  font-size: 50px;
+  margin: 0 10px;
 }
 
 
